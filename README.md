@@ -1,4 +1,4 @@
-# <div align="center"> Hi <img src = "https://user-images.githubusercontent.com/78593368/119226953-4de77600-bb29-11eb-8d16-9479fa967348.gif" width="55px" height="55px"> I am Niraj Patidar</div>
+# <div align="center"> Hi <img src = "https://user-images.githubusercontent.com/78593368/119226953-4de77600-bb29-11eb-8d16-9479fa967348.gif" width="55px" height="55px"> I am DeeKay</div>
 
 - 🔭 I’m currently preparing for placements
 - 🌱 I’m currently learning Data Structures and Algorithms
