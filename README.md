@@ -15,8 +15,8 @@ I am an enthusiastic Indian self-taught android developer and competitive progra
 </h2>
 <div align = "center">
   
-[![Niraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niraj81&theme=radical)](https://github.com/Niraj81/github-readme-stats)
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Niraj81&line_height=40&theme=dark">
+[![Niraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dikshansh17&theme=radical)](https://github.com/dikshansh17/github-readme-stats)
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=dikshansh17&line_height=40&theme=dark">
 </div>
 
 ## **Reach out to me :** 📫
